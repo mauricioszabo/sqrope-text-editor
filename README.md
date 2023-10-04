@@ -1,15 +1,15 @@
-# Isolated Text Editor
+# SQRope Text Editor
 
-The Pulsar text editor, isolated from all other dependencies
+A future text editor backed by some SQL data structure (for testing)
 
 ## Usage:
 
+Install submodules with `git submodule init` and `git submodule update`
+
 Install dependencies with `yarn install`
 
-Rebuild dependencies for Electron with `npx electron-rebuild`
-
-Then run with `yarn start`
+Run with `yarn start`
 
 ## Why?
 
-So it's easier for us to test new things - performance improvements, compatibility with newer Electron versions, etc.
+Because it's fun? :)
