@@ -1,0 +1,3 @@
+[submodule "sqrope"]
+	path = sqrope
+	url = https://gitlab.com/mauricioszabo/sqrope.git
